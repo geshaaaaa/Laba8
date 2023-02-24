@@ -1,0 +1,15 @@
+D:\C#\Delegatelambda\bin\Debug\net6.0\Delegatelambda.exe
+D:\C#\Delegatelambda\bin\Debug\net6.0\Delegatelambda.deps.json
+D:\C#\Delegatelambda\bin\Debug\net6.0\Delegatelambda.runtimeconfig.json
+D:\C#\Delegatelambda\bin\Debug\net6.0\Delegatelambda.dll
+D:\C#\Delegatelambda\bin\Debug\net6.0\Delegatelambda.pdb
+D:\C#\Delegatelambda\obj\Debug\net6.0\Delegatelambda.csproj.AssemblyReference.cache
+D:\C#\Delegatelambda\obj\Debug\net6.0\Delegatelambda.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Delegatelambda\obj\Debug\net6.0\Delegatelambda.AssemblyInfoInputs.cache
+D:\C#\Delegatelambda\obj\Debug\net6.0\Delegatelambda.AssemblyInfo.cs
+D:\C#\Delegatelambda\obj\Debug\net6.0\Delegatelambda.csproj.CoreCompileInputs.cache
+D:\C#\Delegatelambda\obj\Debug\net6.0\Delegatelambda.dll
+D:\C#\Delegatelambda\obj\Debug\net6.0\refint\Delegatelambda.dll
+D:\C#\Delegatelambda\obj\Debug\net6.0\Delegatelambda.pdb
+D:\C#\Delegatelambda\obj\Debug\net6.0\Delegatelambda.genruntimeconfig.cache
+D:\C#\Delegatelambda\obj\Debug\net6.0\ref\Delegatelambda.dll
