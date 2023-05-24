@@ -1,0 +1,26 @@
+D:\C#\Laba8 delegateDB\bin\Debug\Laba8 delegateDB.exe.config
+D:\C#\Laba8 delegateDB\bin\Debug\Laba8 delegateDB.exe
+D:\C#\Laba8 delegateDB\bin\Debug\Laba8 delegateDB.pdb
+D:\C#\Laba8 delegateDB\bin\Debug\EntityFramework.dll
+D:\C#\Laba8 delegateDB\bin\Debug\EntityFramework.SqlServer.dll
+D:\C#\Laba8 delegateDB\bin\Debug\EntityFramework.xml
+D:\C#\Laba8 delegateDB\bin\Debug\EntityFramework.SqlServer.xml
+D:\C#\Laba8 delegateDB\obj\Debug\Laba8 delegateDB.csproj.AssemblyReference.cache
+D:\C#\Laba8 delegateDB\obj\Debug\Laba8 delegateDB.csproj.SuggestedBindingRedirects.cache
+D:\C#\Laba8 delegateDB\obj\Debug\Laba8 delegateDB.csproj.CoreCompileInputs.cache
+D:\C#\Laba8 delegateDB\obj\Debug\Laba8 delegateDB.csproj.CopyComplete
+D:\C#\Laba8 delegateDB\obj\Debug\Laba8 delegateDB.exe
+D:\C#\Laba8 delegateDB\obj\Debug\Laba8 delegateDB.pdb
+D:\C#\LABA8\DBfiltr\bin\Debug\Laba8 delegateDB.exe.config
+D:\C#\LABA8\DBfiltr\bin\Debug\Laba8 delegateDB.exe
+D:\C#\LABA8\DBfiltr\bin\Debug\Laba8 delegateDB.pdb
+D:\C#\LABA8\DBfiltr\bin\Debug\EntityFramework.dll
+D:\C#\LABA8\DBfiltr\bin\Debug\EntityFramework.SqlServer.dll
+D:\C#\LABA8\DBfiltr\bin\Debug\EntityFramework.xml
+D:\C#\LABA8\DBfiltr\bin\Debug\EntityFramework.SqlServer.xml
+D:\C#\LABA8\DBfiltr\obj\Debug\Laba8 delegateDB.csproj.AssemblyReference.cache
+D:\C#\LABA8\DBfiltr\obj\Debug\Laba8 delegateDB.csproj.SuggestedBindingRedirects.cache
+D:\C#\LABA8\DBfiltr\obj\Debug\Laba8 delegateDB.csproj.CoreCompileInputs.cache
+D:\C#\LABA8\DBfiltr\obj\Debug\Laba8 delegateDB.csproj.CopyComplete
+D:\C#\LABA8\DBfiltr\obj\Debug\Laba8 delegateDB.exe
+D:\C#\LABA8\DBfiltr\obj\Debug\Laba8 delegateDB.pdb

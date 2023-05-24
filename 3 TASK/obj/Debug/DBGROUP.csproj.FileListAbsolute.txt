@@ -1,0 +1,8 @@
+D:\C#\LABA8\GroupDB\bin\Debug\DBGROUP.exe.config
+D:\C#\LABA8\GroupDB\bin\Debug\DBGROUP.exe
+D:\C#\LABA8\GroupDB\bin\Debug\DBGROUP.pdb
+D:\C#\LABA8\GroupDB\obj\Debug\DBGROUP.csproj.AssemblyReference.cache
+D:\C#\LABA8\GroupDB\obj\Debug\DBGROUP.csproj.SuggestedBindingRedirects.cache
+D:\C#\LABA8\GroupDB\obj\Debug\DBGROUP.csproj.CoreCompileInputs.cache
+D:\C#\LABA8\GroupDB\obj\Debug\DBGROUP.exe
+D:\C#\LABA8\GroupDB\obj\Debug\DBGROUP.pdb
