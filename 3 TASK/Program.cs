@@ -46,7 +46,7 @@ namespace GroupDB
                     }
                     Console.WriteLine("--------------------------------");
                     var badstudentsfiltergrade = groups.Where(badgradeFilter);
-                    Console.WriteLine("Двієчники");
+                    Console.WriteLine("Студенти з незадовільною оцінкою");
                     foreach (var student in badstudentsfiltergrade)
                     {
                         Console.WriteLine("{0} \t{1} \t{2}", student.Id, student.Name, student.Grade);
